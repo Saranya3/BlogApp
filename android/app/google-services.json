@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713319652105",
+    "project_id": "blogapp-280f9",
+    "storage_bucket": "blogapp-280f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713319652105:android:c66412f27e9dfe43f311d8",
+        "android_client_info": {
+          "package_name": "saranyaumapage.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713319652105-a60o1aj4clltliodda7hplgenvbi9031.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TnhbkcDmJMpLRGT68e0OGdnijz7vF3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713319652105-a60o1aj4clltliodda7hplgenvbi9031.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
